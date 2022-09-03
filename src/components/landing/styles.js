@@ -32,7 +32,7 @@ export const ImgContainer = styled.div`
 
 export const Image = styled.img`
   width: 300px;
-  max-height: 1024px;
+  max-height: 850px;
 
   @media (min-width: 426px) {
     width: 420px;
