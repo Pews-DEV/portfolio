@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.d415e7ed.js",
+    "static/media/totoro.png": "/portfolio/static/media/totoro.fcbe3eef99f3b109a07e.png",
+    "index.html": "/portfolio/index.html",
+    "main.d415e7ed.js.map": "/portfolio/static/js/main.d415e7ed.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d415e7ed.js"
+  ]
+}
