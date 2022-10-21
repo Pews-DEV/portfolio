@@ -7,7 +7,7 @@ const Header = () => {
         GITHUB
       </S.Link>
       <S.Link href="https://www.linkedin.com/in/pedro-henrique-da-silva-232700170/" target="_blank">
-        LINKEDING
+        LINKEDIN
       </S.Link>
     </S.Header>
   )
