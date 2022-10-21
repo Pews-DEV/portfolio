@@ -1,12 +1,14 @@
-import Landing from "../components/landing";
+import Home from "../components/home";
 import Header from "../components/header";
+import Projects from "../components/projects";
 import * as S from './styles'
 
 const Page = () => {
 return(
   <S.MainContainer>
     <Header />
-    <Landing />
+    <Home />
+    <Projects />
   </S.MainContainer>
 )
 };

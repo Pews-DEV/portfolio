@@ -30,4 +30,4 @@ export const Link = styled.a`
   @media (min-width: 426px) {
     font-size: 14px;
   }
-`;
+`

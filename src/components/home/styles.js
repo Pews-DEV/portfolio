@@ -1,12 +1,7 @@
 import styled from 'styled-components'
 
-export const Body = styled.main`
-  grid-area: content;
-  width: 100%;
-  height: 100%;
-  background-color: #FFD600;
-`
-export const Home = styled.section`
+export const Container = styled.section`
+  grid-area: home;
   background-color: #FFD600;
   width: 100%;
   height: calc(100vh - 60px);
