@@ -5,5 +5,6 @@ export const MainContainer = styled.div`
     grid-template-columns: 1fr;
     grid-template-areas:
       "header"
-      "content";
+      "home"
+      "projects";
 `
