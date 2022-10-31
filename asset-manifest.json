@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.5835cbd6.js",
+    "main.js": "/portfolio/static/js/main.b1a2d173.js",
+    "static/media/pitanga.png": "/portfolio/static/media/pitanga.c076672d3faf1d2dc07e.png",
+    "static/media/book.png": "/portfolio/static/media/book.87799a8dcad76b127d26.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.2a7ed09fd9296589663a.png",
     "static/media/totoro.png": "/portfolio/static/media/totoro.fcbe3eef99f3b109a07e.png",
     "index.html": "/portfolio/index.html",
-    "main.5835cbd6.js.map": "/portfolio/static/js/main.5835cbd6.js.map"
+    "main.b1a2d173.js.map": "/portfolio/static/js/main.b1a2d173.js.map"
   },
   "entrypoints": [
-    "static/js/main.5835cbd6.js"
+    "static/js/main.b1a2d173.js"
   ]
 }
